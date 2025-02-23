@@ -25,9 +25,9 @@ export default function About() {
             the attention it deserves, all from the comfort of your home.
           </p>
           <p className="text-lg">
-            Our upcoming mobile app will make scheduling and managing your car's
-            care easier than ever. From detailing to ceramic coating, we're here
-            to keep your luxury vehicle in pristine condition.
+            Our upcoming mobile app will make scheduling and managing your
+            car&apos;s care easier than ever. From detailing to ceramic coating,
+            we&apos;re here to keep your luxury vehicle in pristine condition.
           </p>
         </div>
       </div>
